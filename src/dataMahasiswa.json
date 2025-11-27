@@ -1,0 +1,88 @@
+{
+  "profile": {
+    "full_name": "Ryan Adi Wicaksono",
+    "nim": "L200230147",
+    "prodi": "Teknik Informatika",
+    "angkatan": "2023",
+    "photo_url": "/profile.jpeg",
+    "headline": "Fullstack Web Developer | React & Django Enthusiast",
+    "short_bio": "Mahasiswa UMS dengan minat pada pengembangan web fullstack.",
+    "location": "Surakarta, Jawa Tengah",
+    "portfolio_url": "https://github.com/adi-07-nino"
+  },
+  "skills": [
+    {
+      "id": 1,
+      "name": "ReactJS",
+      "category": "technical",
+      "level": "advanced",
+      "is_main": true,
+      "years_of_experience": 2,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    },
+    {
+      "id": 2,
+      "name": "Django REST",
+      "category": "technical",
+      "level": "intermediate",
+      "is_main": true,
+      "years_of_experience": 1,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+    },
+    {
+      "id": 3,
+      "name": "Tailwind CSS",
+      "category": "technical",
+      "level": "intermediate",
+      "is_main": false,
+      "years_of_experience": 1,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+    },
+    {
+      "id": 4,
+      "name": "Laravel",
+      "category": "technical",
+      "level": "intermediate",
+      "is_main": true,
+      "years_of_experience": 1,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"
+    }
+  ],
+  "experiences": [
+    {
+      "id": 103,
+      "title": "Software Developer - Magang",
+      "organization": "PT.Kledo Berhati Nyaman",
+      "experience_type": "project - Magang",
+      "start_date": "Oct 2024",
+      "end_date": null,
+      "is_current": true,
+      "description": "Membangun website berbasis aplikasi mobile.",
+      "technologies": ["Django", "DRF", "PostgreSQL"],
+      "image_url": ""
+    },
+    {
+      "id": 101,
+      "title": "Frontend Developer Intern",
+      "organization": "PT Digdaya Informasi",
+      "experience_type": "internship",
+      "start_date": "Jul 2023",
+      "end_date": "Sep 2024",
+      "is_current": false,
+      "description": "Mengembangkan antarmuka dashboard internal menggunakan React.",
+      "technologies": ["ReactJS", "Tailwind CSS"],
+      "image_url": ""
+    },
+    {
+      "id": 102,
+      "title": "Mobile Developer",
+      "organization": "PT Global Data",
+      "experience_type": "Magang",
+      "start_date": "August 2023",
+      "end_date": "December 2025",
+      "is_current": false,
+      "description": "mengembangkan aplikasi mobile.",
+      "image_url": ""
+    }
+  ]
+}
